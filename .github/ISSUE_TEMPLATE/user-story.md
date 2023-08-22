@@ -1,21 +1,3 @@
----
-name: User story
-about: Use this template
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: User Story
-about: Learning to template
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
